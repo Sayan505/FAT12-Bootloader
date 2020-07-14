@@ -1,5 +1,5 @@
 # FAT12-Bootloader
-A simple FAT-12 bootloader which is capable of reading and running a 16-bit flat binary in from a 2880K floppy.
+A simple FAT-12 bootloader which is capable of reading and running a 16-bit flat binary from a 2880K floppy.
 
 ## Requirements for building
 ###  Linux and WSL
