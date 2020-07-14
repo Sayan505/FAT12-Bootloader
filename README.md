@@ -4,6 +4,7 @@ A simple FAT-12 bootloader which is capable of reading and running a 16-bit flat
 ## Requirements for building
 ###  Linux and WSL
 • qemu-system-x86_64 / qemu-system-i386
+
 • dosfstools
 
 ### Windows
