@@ -1,4 +1,4 @@
-# DOS16 Real Mode DOS
+# DOS16: A Real Mode DOS
 A simple 16 bit DOS capable of booting from a 1.44MB floppy.
 
 ## Requirements for building
